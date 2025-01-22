@@ -4,7 +4,7 @@
 
 ¡Bienvenido al desafío!
 
-Este proyecto de código abierto es parte del equipo ![Alura LATAM](https://www.aluracursos.com/), y consiste en una aplicación web con la finalidad de realizar un sorteo de un **amigo secreto** entre un grupo de participantes.
+Este proyecto de código abierto es parte del equipo Alura LATAM, y consiste en una aplicación web con la finalidad de realizar un sorteo de un **amigo secreto** entre un grupo de participantes.
 
 ## Índice
 
@@ -105,4 +105,4 @@ Desarrollado por Juan Ríos.
 
 ## 🙌 Agradecimientos
 
-Al equipo ![Alura LATAM](https://www.aluracursos.com/) por la inspiración y oportunidad de una educación gratuita.
+Al equipo Alura LATAM por la inspiración y oportunidad de una educación gratuita.
