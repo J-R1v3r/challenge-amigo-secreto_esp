@@ -6,20 +6,6 @@
 
 Este proyecto de código abierto es parte del equipo Alura LATAM, y consiste en una aplicación web con la finalidad de realizar un sorteo de un **amigo secreto** entre un grupo de participantes.
 
-## Índice
-
-- [📖 Descripción](#📖-Descripción)
-- [✨ Características](✨-Características)
-- [🚀 Funcionamiento](🚀-Funcionamiento)
-  - [👥 Agregar amigos](👥-Agregar-amigos)
-  - [👤 Sortear amigo secreto](👤-Sortear-amigo-secreto)
-  - [🔄 Reiniciar el juego](🔄-Reiniciar-el-juego)
-- [🌐 Instalación](🌐-Instalación)
-- [🛠️-Tecnologías-utilizadas](🛠️-Tecnologías-utilizadas)
-- [🤝 Contribuciones](🤝-Contribuciones)
-- [🧑‍💻-Autor](🧑‍💻-Autor)
-- [🙌 Agradecimientos](🙌-Agradecimientos)
-
 ## 📖 Descripción
 
 Una aplicación web interactiva diseñada para facilitar la organización de juegos de Amigo Secreto. Con una **interfaz amigable** y un **diseño responsivo**, permite a los usuarios ingresar nombres, asignar aleatoriamente los amigos secretos y ver en pantalla al amigo sorteado. Ideal para reuniones familiares, de amigos o eventos laborales.
